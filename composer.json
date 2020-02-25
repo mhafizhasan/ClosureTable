@@ -12,6 +12,14 @@
     "require": {
         "php": ">=5.4.0"
     },
+    "require-dev": {
+        "phpunit/phpunit": "dev-master",
+        "way/phpunit-wrappers": "dev-master",
+        "way/laravel-test-helpers": "dev-master",
+        "mockery/mockery": "dev-master",
+        "orchestra/testbench": "dev-master",
+        "doctrine/dbal": "dev-master"
+    },
     "autoload": {
         "classmap": ["tests"],
         "psr-0": {
