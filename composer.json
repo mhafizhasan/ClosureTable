@@ -1,6 +1,6 @@
 {
     "name": "mhafizhasan/closure-table",
-    "description": "closure table package fork from franzose/ClosureTable",
+    "description": "closure table package fork from franzose/ClosureTable to support laravel 6.2",
     "type": "library",
     "license": "MIT",
     "authors": [
